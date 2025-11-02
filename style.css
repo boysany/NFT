@@ -54,6 +54,7 @@ body {
   border-radius: 30px;
   cursor: pointer;
   transition: 0.3s;
+  text-decoration: unset;
 }
 .btn:hover {
   opacity: 0.9;
@@ -75,7 +76,7 @@ body {
 .hero {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 160px 80px 80px;
 }
 .hero-text {
